@@ -29,7 +29,7 @@ body{
     /* align-items: center; */
     flex-wrap: wrap;
     padding: 60px 50px;
-    gap: 12px;
+    gap: 16px;
     align-self: center;
     
     
@@ -45,7 +45,6 @@ body{
     justify-content: center;
     /* align-self: stretch; */   
 }
-
 .image{
     border: 1px solid grey;
     display: flex;
