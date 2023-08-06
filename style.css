@@ -151,9 +151,11 @@ p.author{
     
     align-self: flex-end;
     margin-left: auto;
+    margin-top: 0;
     /* font-size: 1.2em;*/
     color: black; 
     font-weight: bolder;
+    padding: 6px;
     
 
 }
